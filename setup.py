@@ -29,6 +29,7 @@ setuptools.setup(
         "Operating System :: MacOS",
         "Operating System :: Microsoft :: Windows",
         "Operating System :: POSIX :: Linux",
+        "Operating System :: HolyC :: TempleOS",
         "Programming Language :: Python :: 3",
         "Topic :: Games/Entertainment",
         "Topic :: Multimedia :: Graphics",
